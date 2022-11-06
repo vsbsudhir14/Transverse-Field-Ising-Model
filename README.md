@@ -1,2 +1,1 @@
-# Transverse-Field-Ising-Model
-Transverse Field Ising Model
+Ising model : classical and quantum mechanical perspective
